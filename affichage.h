@@ -7,7 +7,7 @@
 #include <QProgressBar>
 #include <QSlider>
 #include <QLayout>
-
+#include <QString>
 #ifndef TP3_AFFICHAGE_H
 #define TP3_AFFICHAGE_H
 
@@ -19,6 +19,11 @@ public:
     QSlider * slider;
     client();
 
+public: signals :
+    void valueChanged (int value);
+
+public slots:
+    void slotSetValue (int value);
 };
 
 

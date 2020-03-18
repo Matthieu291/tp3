@@ -9,6 +9,7 @@ client::client() {
     setMinimumSize(600, 400);
     QLayout * layout1 = new QVBoxLayout();
     bar = new QProgressBar(this);
+    bar->
     slider = new QSlider(Qt::Horizontal);
     QWidget *WidgetParent = new QWidget;
     layout1->addWidget(bar);

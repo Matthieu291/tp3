@@ -13,6 +13,16 @@ affichage.h
 /mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/affichage.h
 QMainWindow
 -
+QtWidgets/QProgressBar
+-
+QtWidgets/QSlider
+-
+QProgressBar
+-
+QSlider
+-
+QLayout
+-
 
 /mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/cmake-build-debug/tp3_automoc.cpp
 tp3_automoc.dir/moc_affichage_CKX2KJXPSIOJ43.cpp
@@ -1000,9 +1010,25 @@ QtCore/qglobal.h
 qapplication.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLayout
+qlayout.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow
 qmainwindow.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QProgressBar
+qprogressbar.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QSlider
+qslider.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
+QtWidgets/qwidget.h
+-
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
 QtCore/qcoreapplication.h
@@ -1020,8 +1046,54 @@ QtWidgets/qdesktopwidget.h
 QtGui/qguiapplication.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h
+QtWidgets/qlayout.h
+-
+QtWidgets/qwidget.h
+-
+limits.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qdesktopwidget.h
 QtWidgets/qwidget.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qframe.h
+QtWidgets/qwidget.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qgridlayout.h
+QtWidgets/qlayout.h
+-
+QtWidgets/qwidget.h
+-
+limits.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayout.h
+QtCore/qobject.h
+-
+QtWidgets/qlayoutitem.h
+-
+QtWidgets/qsizepolicy.h
+-
+QtCore/qrect.h
+-
+QtCore/qmargins.h
+-
+limits.h
+-
+QtWidgets/qboxlayout.h
+-
+QtWidgets/qgridlayout.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h
+QtWidgets/qsizepolicy.h
+-
+QtCore/qrect.h
+-
+limits.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h
@@ -1030,8 +1102,16 @@ QtWidgets/qwidget.h
 QtWidgets/qtabwidget.h
 -
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h
+QtWidgets/qframe.h
+-
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
 QtCore/qobject.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h
+QtWidgets/qabstractslider.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h

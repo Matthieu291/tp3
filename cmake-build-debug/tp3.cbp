@@ -119,6 +119,12 @@
 		<Unit filename="/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/cmake-build-debug/tp3_automoc.cpp">
 			<Option target="tp3"/>
 		</Unit>
+		<Unit filename="/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/ex2.cpp">
+			<Option target="tp3"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/ex2.h">
+			<Option target="tp3"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/main.cpp">
 			<Option target="tp3"/>
 		</Unit>

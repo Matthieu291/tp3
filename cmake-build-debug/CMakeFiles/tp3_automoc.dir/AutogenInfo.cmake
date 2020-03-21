@@ -1,4 +1,4 @@
-set(AM_SOURCES "/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/main.cpp;/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/affichage.cpp" )
+set(AM_SOURCES "/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/main.cpp;/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/affichage.cpp;/mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/ex2.cpp" )
 set(AM_RCC_SOURCES  )
 set(AM_RCC_INPUTS )
 set(AM_SKIP_MOC "" )

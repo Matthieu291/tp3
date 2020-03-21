@@ -23,6 +23,8 @@ QSlider
 -
 QLayout
 -
+QString
+-
 
 /mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/cmake-build-debug/tp3_automoc.cpp
 tp3_automoc.dir/moc_affichage_CKX2KJXPSIOJ43.cpp
@@ -43,6 +45,12 @@ QtWidgets/QApplication
 -
 affichage.h
 /mnt/c/Users/Matthieu/Documents/ISEN2019-2020/qt/tp3/affichage.h
+QPushButton
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtCore/QString
+qstring.h
+/usr/include/x86_64-linux-gnu/qt5/QtCore/qstring.h
 
 /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
 QtCore/qglobal.h
@@ -1022,9 +1030,21 @@ qmainwindow.h
 qprogressbar.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h
 
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton
+qpushbutton.h
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
+
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QSlider
 qslider.h
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h
+QtGui/qicon.h
+-
+QtGui/qkeysequence.h
+-
+QtWidgets/qwidget.h
+-
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
 QtWidgets/qwidget.h
@@ -1104,6 +1124,10 @@ QtWidgets/qtabwidget.h
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h
 QtWidgets/qframe.h
+-
+
+/usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
+QtWidgets/qabstractbutton.h
 -
 
 /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h

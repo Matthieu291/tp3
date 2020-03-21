@@ -3,6 +3,7 @@
 
 CMakeFiles/tp3.dir/affichage.cpp.o: ../affichage.cpp
 CMakeFiles/tp3.dir/affichage.cpp.o: ../affichage.h
+CMakeFiles/tp3.dir/affichage.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/QString
 CMakeFiles/tp3.dir/affichage.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
 CMakeFiles/tp3.dir/affichage.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
 CMakeFiles/tp3.dir/affichage.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h
@@ -117,6 +118,7 @@ CMakeFiles/tp3.dir/affichage.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/
 
 CMakeFiles/tp3.dir/main.cpp.o: ../affichage.h
 CMakeFiles/tp3.dir/main.cpp.o: ../main.cpp
+CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/QString
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h
@@ -220,7 +222,9 @@ CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QAppl
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QLayout
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QMainWindow
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QProgressBar
+CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QPushButton
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/QSlider
+CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractbutton.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qabstractslider.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qapplication.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qboxlayout.h
@@ -231,6 +235,7 @@ CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayo
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qlayoutitem.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qmainwindow.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qprogressbar.h
+CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qpushbutton.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qsizepolicy.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qslider.h
 CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtabwidget.h
@@ -239,6 +244,7 @@ CMakeFiles/tp3.dir/main.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidg
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: ../affichage.h
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: tp3_automoc.cpp
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: tp3_automoc.dir/moc_affichage_CKX2KJXPSIOJ43.cpp
+CMakeFiles/tp3.dir/tp3_automoc.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/QString
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
 CMakeFiles/tp3.dir/tp3_automoc.cpp.o: /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h

@@ -1,12 +1,18 @@
 #include <iostream>
 #include <QtWidgets/QApplication>
 #include "affichage.h"
-#include <QPushButton>
+#include "ex2.h"
+
 using namespace std;
 int main(int argc, char** argv) {
     QApplication app (argc, argv);
-    client window;
-    window.show();
+    //ex 1
+//    client window;
+//    window.show();
+
+//ex2
+window2 window;
+window.show();
 
     return app.exec();
 }
